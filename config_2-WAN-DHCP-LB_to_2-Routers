@@ -1,6 +1,6 @@
 ###########################################################################
 # PCC Load Balancing (DHCP 2 WAN)
-# This script is suitable when both ISPs providing the same internet speed, example: 
+# This script is suitable when both ISPs provide the same internet speed, example: 
 # ISP1 -> Download Speed: 250 Mbps, Upload Speed: 250 Mbps
 # ISP2 -> Download Speed: 250 Mbps, Upload Speed: 250 Mbps
 ###########################################################################
